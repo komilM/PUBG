@@ -1,0 +1,142 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+
+nav {
+        width: 1500px;
+        height: 82px;
+        background-color: black;
+        display: flex;
+        box-sizing: border-box;
+}
+
+
+.logo {
+        width: 56px;
+        height: 46px;
+        margin-top: 18px;
+        margin-left: 57px;
+        display: flex;
+}
+
+
+.logo1 {
+        width: 30px;
+        height: 30px;
+        margin-left: 916px;
+        margin-top: 26px;
+}
+
+
+.select1 {
+        color: white;
+        width: 76px;
+        height: 15px;
+        background-color: black;
+        border: 0px;
+        font-weight: 700;
+        margin-top: 34px;
+        margin-left: 1071;
+}
+
+
+.button {
+        width: 192px;
+        height: 82px;
+        color: black;
+        background-color: #F1A900;
+        margin-left: 1191;
+        text-align: center;
+        line-height: 82px;
+}
+
+
+.text1 {
+        font-size: 20px;
+        font-weight: 700;
+}
+
+
+.pubg {
+        height: 797px;
+        width: 100%;    
+        background-image: url(./026b441a88dfc0194633755f033f7f553dfded55\ \(1\).png);
+        background-repeat: no-repeat;
+        padding-top: 350px;
+}
+
+
+.ota {
+        display: flex;
+        gap: 64px;
+        justify-content: center;
+}
+
+
+.pc {
+        height: 73px;
+        width: 245px;
+        background-color: orange;
+        color: black;
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+}
+
+
+.console{
+          height: 73px;
+        width: 245px;
+        background-color: black;
+        color: white;
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+}
+
+
+.nav2 {
+        width: 1500px;
+        height: 44px;
+        background-color: #222222;
+        display: flex;
+        box-sizing: border-box;
+        gap: 101px;
+        color: white;
+        font-weight: 700;
+        font-size: 16;
+}
+
+
+.select2 {
+        color: white;
+        width: 81px;
+        height: 16px;
+        background-color: #222222;
+        font-weight: 700;
+        font-size: 16;
+        border: 0px;
+        margin-top: 15px;
+        margin-left: 285px;
+}
+
+
+footer {
+         width: 1500px;
+        height: 101px;
+        margin-top: -415px;
+        background-color: black;
+        display: flex;
+}
+
+
+.rasm {
+        width: 24px;
+        height: 24px;
+        margin-top: 36px;
+        margin-left: 1052px;
+        gap: 54px;
+        display: flex;
+}
